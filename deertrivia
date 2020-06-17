@@ -5,7 +5,7 @@
      "url": "https://www.reddit.com/search?q=optimized+bounties+author%3ADeerTrivia+AND+subreddit%3Adestinythegame+AND+self%3Ayes&restrict_sr=&sort=relevance&t=all", 
      "description": "<<<{{Content}}>>>",
      "thumbnail": { 
-       "url": "<<<{{ImageURL}}>>>"
+       "url": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png"
      }, 
      "footer": { 
        "icon_url": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png", 
